@@ -16,7 +16,7 @@ https://github.com/Harman8815/Brick-Breaker-Game-GUI/assets/115714095/23c94564-a
 ## 🤵 Owner
 
 - **Name:** [Harman]
-- **GitHub:** [Harman8815][(https://github.com/Harman8815)
+- **GitHub:** [Harman8815](https://github.com/Harman8815)
 
 ## 🚀 Technologies Used
 
